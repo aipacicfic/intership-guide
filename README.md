@@ -4,7 +4,7 @@
 - Các Milestone là các mốc các bạn cần đạt được và báo cáo kết quả với người hướng dẫn.
 - Việc sử dụng các công cụ làm việc là hoàn toàn tự do theo lựa chọn cá nhân. Tuyệt đối **không** sử dụng các phần mềm được bẻ khóa.
 
-####1. Các mốc báo cáo Kĩ năng/Kiến thức đã tiếp thu
+#### 1. Các mốc báo cáo Kĩ năng/Kiến thức đã tiếp thu
 #####Milestone 1. Sau ngày bắt đầu thực tập 1 tuần
 - Tìm hiểu và thành thạo các công cụ làm việc (Phần 3. và 4. trong tài liệu này)
 - Quyết định chọn dự án để thực hiện và trình bày kế hoạch thực hiện
