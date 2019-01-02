@@ -102,7 +102,7 @@
 
 **Dự án 2**: Ứng dụng PhotoTag
 - Độ khó: cao
-- Công nghệ sử dụng: PHP - MySQL co phân hệ backend, RabbitMQ cho xử lý hàng đợi, TensorFlow cho xử lý đọc hình ảnh
+- Công nghệ sử dụng: PHP - MySQL cho phân hệ backend, RabbitMQ cho xử lý hàng đợi, TensorFlow cho xử lý đọc hình ảnh
 - Mô tả: Ứng dụng tiếp nhận đầu vào là hàng loạt các ảnh chụp (số lượng có thể lên tới hàng trăm hình ảnh mỗi giây). Sử dụng thuật toán máy học có sẵn (cài đặt dùng TensorFlow) để trích xuất thông tin từ các hình ảnh này và lưu vào CSDL.
 
 **Dự án 3**: Ứng dụng MedicalID
