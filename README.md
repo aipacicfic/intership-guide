@@ -51,6 +51,8 @@
 
 #### 1.2. Kiến thức về kĩ thuật lập trình và kiến trúc hệ thống
 **Cơ bản về MVC**
+- xyz
+
 **PHP Framework tốt**
 - [Laravel](https://laravel.com)
 - [Lumen](https://lumen.laravel.com)
